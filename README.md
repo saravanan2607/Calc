@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
 <head>
     <title>Simple Calculator</title>
@@ -146,6 +147,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+```
 
 ## OUTPUT:
 ![279332204-b5603fa3-c3e7-499f-9861-39f9d746bd60](https://github.com/kamalesh2509/Calc/assets/120444689/b8aef862-8ac6-495d-a05d-86ac73af7a08)
